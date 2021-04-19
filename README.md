@@ -1,5 +1,5 @@
-Hello, I’m @EliasWiegandt
-🌱 I’m woking at Ofir, where we apply machine learning (especially NLP) to job advertisements.
+Hello, I’m @EliasWiegandt  
+🌱 I’m woking at Ofir, where we apply machine learning (especially NLP) to job advertisements.  
 📫 Reach me at elias.wiegandt@ofirjob.dk
 
 <!---
