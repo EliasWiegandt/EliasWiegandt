@@ -1,5 +1,5 @@
 Hello, I’m @EliasWiegandt  
-🌱 I'm An AI Engineer at Saxo Bank. But my github is mainly me having fun with NLP.  
+🌱 I'm an AI Engineer at Saxo Bank. But my github is mainly me having fun with NLP.  
 📫 Reach me at elias@plyml.com
 
 <!---
